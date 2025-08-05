@@ -1,0 +1,14 @@
+=== SYSTEM LOG ANALYSIS REPORT (2025-08-05) ===
+
+---- Analyzing /var/log/syslog ----
+Total errors: 0
+
+Last 5 critical errors:
+
+---- Analyzing /var/log/auth.log ----
+Total errors: 0
+
+Last 5 critical errors:
+
+Failed SSH attempts: 0
+Last 3 failed IPs:
