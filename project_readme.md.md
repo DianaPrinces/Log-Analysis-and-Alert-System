@@ -1,4 +1,4 @@
-# Log Analysis and Alert System
+# Log Analysis and Alert System (Group 7)
 
 ## Overview
 Analyzes system logs for errors and failed logins, generates daily reports, and sends email alerts.
